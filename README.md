@@ -14,8 +14,7 @@
 <div style="display:flex;justify-content:space-between;">
  <img src="./projectImages/mobile-main.png" width="auto" height="500px"/>
   <img src="./projectImages/mobile-vagas.png" width="auto" height="500px"/>
- <img src="./projectImages/mobile-search.png" width="auto" height="500px"/>
- <img src="./projectImages/mobile-vaga.png" width="auto" height="500px"/>
+
 </div>
 <br />
 
